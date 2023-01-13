@@ -9,7 +9,6 @@ import Menu.*;
  * @author Renz Rackhold
  */
 public class userName extends javax.swing.JFrame {
-
     /**
      * Creates new form userName
      */
